@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 14 Apr 2022 22:49:32 at https://www.vnhaxvip.ml/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" https://www.vnhaxvip.ml/ -O1 "C:\Benim Web Sitem\VNHAX VIP" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:49:39	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/images/logo.jpg (from https://www.vnhaxvip.ml/)
+22:49:45	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/fonts/MotivaSans-Regular.ttf?v=4.007 (from https://www.vnhaxvip.ml/css/styles.css)
+22:49:45	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/fonts/MotivaSans-Light.ttf?v=4.007 (from https://www.vnhaxvip.ml/css/styles.css)
+22:49:45	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/fonts/MotivaSans-Thin.ttf?v=4.007 (from https://www.vnhaxvip.ml/css/styles.css)
+22:49:45	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/fonts/MotivaSans-Medium.ttf?v=4.007 (from https://www.vnhaxvip.ml/css/styles.css)
+22:49:45	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/fonts/MotivaSans-Bold.ttf?v=4.007 (from https://www.vnhaxvip.ml/css/styles.css)
+22:49:45	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/fonts/motiva-sans-regular-italic.ttf?v=4.007 (from https://www.vnhaxvip.ml/css/styles.css)
+22:49:45	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/fonts/motiva-sans-light-italic.ttf?v=4.007 (from https://www.vnhaxvip.ml/css/styles.css)
+22:49:45	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/fonts/motiva-sans-bold-italic.ttf?v=4.007 (from https://www.vnhaxvip.ml/css/styles.css)
+22:49:45	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/images/background.png (from https://www.vnhaxvip.ml/css/styles.css)
+22:49:45	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/images/bg.png (from https://www.vnhaxvip.ml/css/styles.css)
+22:49:45	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/img/bg.gif (from https://www.vnhaxvip.ml/css/grid.css)
+22:49:45	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/img/asc.gif (from https://www.vnhaxvip.ml/css/grid.css)
+22:49:45	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/img/desc.gif (from https://www.vnhaxvip.ml/css/grid.css)
+22:49:45	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/faq/images/apple-icon.png (from https://www.vnhaxvip.ml/faq/index.html)
+22:49:45	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/faq/images/vnhaxvip.png (from https://www.vnhaxvip.ml/faq/index.html)
+22:49:45	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/faq/images/logo.jpg (from https://www.vnhaxvip.ml/faq/index.html)
+22:49:46	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/faq/img/bg.gif (from https://www.vnhaxvip.ml/faq/css/grid.css)
+22:49:46	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/faq/img/asc.gif (from https://www.vnhaxvip.ml/faq/css/grid.css)
+22:49:46	Error: 	"Not Found" (404) at link https://www.vnhaxvip.ml/faq/img/desc.gif (from https://www.vnhaxvip.ml/faq/css/grid.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 seconds : 41 links scanned, 20 files written (2031481 bytes overall) [710685 bytes received at 50763 bytes/sec], 1754131 bytes transferred using HTTP compression in 14 files, ratio 22%, 3.8 requests per connection
+(20 errors, 0 warnings, 0 messages)
